@@ -7,6 +7,5 @@
 	-->
 	<ModulePrefs title="yahoo" height="500">
 	</ModulePrefs>
-	<Content type="html" href="index.html"/>
-	<script type = "text / javascript" src = "./JavaScript/rapidjp-1.0.0.js" > </script>  
+	<Content type="html" href="https://www.yahoo.co.jp/"/>
 </Module>
