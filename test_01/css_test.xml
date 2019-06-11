@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Hello World!! (XML, HTML, JavaScript) -->
+<Module specificationVersion='2'>
+	<ModulePrefs title="test" height="500">
+	</ModulePrefs>
+	<Content type="html" href="https://portal.technopro.com/aqua/">
+</Module>
