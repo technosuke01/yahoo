@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Hello World!! (XML, HTML, JavaScript) -->
+<Module specificationVersion='2'>
+	<ModulePrefs
+		title="AMS"
+		height="500"
+		thumbnail="https://3.bp.blogspot.com/-XgnDvPly1b8/UzALCr-O0MI/AAAAAAAAedE/T-FJtiMZs_c/s400/kumo_bg.png"
+	>
+	</ModulePrefs>
+	<Content type="html" href="https://ap.salesforce.com/secur/login_portal.jsp"/>
+</Module>
