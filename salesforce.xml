@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module specificationVersion='2'>
-	<ModulePrefs title="salesforce" height="500">
+	<ModulePrefs title="salesforce_CSS設定なし" height="500">
 	</ModulePrefs>
 	<Content type="html" href="https://www.salesforce.com/jp/"/>
 
