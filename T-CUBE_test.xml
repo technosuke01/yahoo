@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Hello World!! (XML, HTML, JavaScript) -->
+<Module specificationVersion='2'>
+	<ModulePrefs title="T-CUBE_検証環境" height="500">
+	</ModulePrefs>
+	<Content type="html" href="https://portal-vup.technopro.com/aqua/"/>
+</Module>
