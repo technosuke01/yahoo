@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Hello World!! (XML, HTML, JavaScript) -->
+<?xml-stylesheet href="https://cyncs.technopro.com/css/style1.css" type="text/css"?>
+
 <Module specificationVersion='2'>
 	<ModulePrefs title="CYNCS" height="500">
 	</ModulePrefs>
 	<Content type="html" href="https://cyncs.technopro.com/csi.html"/>
-	<link href="https://cyncs.technopro.com/css/style1.css" rel="stylesheet" type="text/css">
+
 </Module>
