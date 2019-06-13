@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- Hello World!! (XML, HTML, JavaScript) -->
 <Module specificationVersion='2'>
-	<ModulePrefs 
-		title="CYNCS"
-		height="500"
-		thumbnail="https://1.bp.blogspot.com/-KRLyWl-ZbQw/Vkcaj0ZmGAI/AAAAAAAA0dA/Qcqwu43TsjM/s400/shinsyakaijin_couple2.png"
-	>
+	<ModulePrefs title="CYNCS" height="500">
 	</ModulePrefs>
 	<Content type="html" href="https://cyncs.technopro.com/csi.html"/>
+	<link href="https://cyncs.technopro.com/css/style1.css" rel="stylesheet" type="text/css">
 </Module>
